@@ -1,0 +1,14 @@
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\bin\Debug\net7.0\Planets.exe
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\bin\Debug\net7.0\Planets.deps.json
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\bin\Debug\net7.0\Planets.runtimeconfig.json
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\bin\Debug\net7.0\Planets.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\bin\Debug\net7.0\Planets.pdb
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.AssemblyInfo.cs
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\refint\Planets.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.pdb
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\Planets.genruntimeconfig.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\Planets\obj\Debug\net7.0\ref\Planets.dll

@@ -1,0 +1,14 @@
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\bin\Debug\net7.0\Method.Loop.exe
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\bin\Debug\net7.0\Method.Loop.deps.json
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\bin\Debug\net7.0\Method.Loop.runtimeconfig.json
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\bin\Debug\net7.0\Method.Loop.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\bin\Debug\net7.0\Method.Loop.pdb
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.AssemblyInfo.cs
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\refint\Method.Loop.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.pdb
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\Method.Loop.genruntimeconfig.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\Method.Loop\obj\Debug\net7.0\ref\Method.Loop.dll
