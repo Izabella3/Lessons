@@ -1,0 +1,14 @@
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\bin\Debug\net7.0\AddList.exe
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\bin\Debug\net7.0\AddList.deps.json
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\bin\Debug\net7.0\AddList.runtimeconfig.json
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\bin\Debug\net7.0\AddList.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\bin\Debug\net7.0\AddList.pdb
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.AssemblyInfo.cs
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\refint\AddList.dll
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.pdb
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\AddList.genruntimeconfig.cache
+C:\Users\Bella\source\repos\Lessons\Lessons\AddList\obj\Debug\net7.0\ref\AddList.dll
